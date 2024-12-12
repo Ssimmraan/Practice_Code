@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.head {
+  width: 70%;
+  height: 100px;
+  background-color: rgba(237, 84, 84, 0.522);
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+h2 {
+  text-align: center;
+  font: 500;
+  font-family: "Rye", serif;
+}
+
+input {
+  width: 50%;
+  height: 30px;
+  background-color: rgba(82, 68, 68, 0.241);
+  border: 2px solid rgba(82, 68, 68, 0.241);
+  margin-left: 100px;
+}
+
+button {
+  width: 20%;
+  height: 33px;
+  background-color: rgba(80, 121, 241, 0.844);
+  border: 3px solid rgba(80, 121, 241, 0.844);
+}
+
+h3 {
+  text-align: center;
+  font: 500;
+  font-family: "Rye", serif;
+}
